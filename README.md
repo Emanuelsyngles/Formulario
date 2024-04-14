@@ -4,6 +4,9 @@
  ## Informações
  Esse é um fórmulário com regex, toda informação que for adicionada tem que seguir um padrão, para entender como funciona você pode seguir a instrução abaixo para usar o projeto.
 
+## Status
+--  Projeto formulário concluído 🎯
+
 
  ## Utilize o projeto clicando no link abaixo: 
 -[Acessar projeto](https://formulariopadrao.netlify.app/)
